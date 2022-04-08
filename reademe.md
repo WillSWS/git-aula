@@ -1,2 +1,3 @@
 Ola, vamos aprender a usar o git.
-Isso é ima alteração.
+Isso é uma alteração.
+Meu Deus git tá ficando plausíveu pro meu cérebro aleluia.
